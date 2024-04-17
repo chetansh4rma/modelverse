@@ -12,7 +12,7 @@ const cors = require('cors');
 const API_KEY = 'f027fa19-9c63-41ac-965e-ad2c50e2dcb8';
 
 const config = {
-  server: 'mynewserver.database.windows.net',
+  server: 'mynewserver',
   database: 'dtabase',
   authentication: {
     type: 'default',
